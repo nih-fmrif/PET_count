@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/146315452.svg)](https://zenodo.org/badge/latestdoi/146315452)
+
 # PET_count
 
 This repository contains the code and data used to estimate the amount of brain PET data that might be available in the world at the end of 2019. We used a search for the terms "brain" and "PET" on [ClinicalTrials.gov](https://clinicaltrials.gov/) and [PubMED](https://www.ncbi.nlm.nih.gov/pubmed) on August 23rd 2018. ClinicialTrials data defined the number of brain PET datasetcs collected in the US and PubMed data was used to calculate the ratio of the number of US brain PET studies to the number of brain PET studies conducted in the rest of the world. This is a rough calculation, and its accuracy depends on the following assumptions:
